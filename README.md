@@ -1,4 +1,4 @@
-# Hi, I'm Meredith <img src="https://github.com/meredithgavin/miscellaneous/blob/main/uchicago_gargoyle%20Small.jpeg" width="29px">
+# Hi, I'm Meredith 👩‍💻
 
 <table>
   <tr>
