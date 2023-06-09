@@ -1,4 +1,4 @@
-# Hi, I'm Meredith <img src="[uchicago_gargoyle Small.jpeg](https://github.com/meredithgavin/miscellaneous/blob/main/uchicago_gargoyle%20Small.jpeg)" width="29px">
+# Hi, I'm Meredith <img src="https://github.com/meredithgavin/miscellaneous/blob/main/uchicago_gargoyle%20Small.jpeg" width="29px">
 <!--
 **meredithgavin/meredithgavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
