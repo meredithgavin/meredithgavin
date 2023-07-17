@@ -9,6 +9,7 @@
       <p>📚 My policy interests include state and local economics, sustainability, and the circular economy. I'm always interested
         in learning more, and I'm on the lookout for book recommendations.</p>
       <p>💼 I'm currently on the job hunt - share your best leads!</p>
+      <p>💡 For a good overview of my skillset, check out the "pre_doc_task1" repo. To see some more advanced work (including regression analyses and interactive maps), see "problem_sets_year1"
       <p>📫 <a href="https://www.linkedin.com/in/meredith-gavin/">Reach me on LinkedIn</a></p>
     
   </tr>
